@@ -219,3 +219,4 @@ __marimo__/
 config.py.amltmp
 *.amltmp
 config.py
+*.tif
